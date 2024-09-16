@@ -16,6 +16,7 @@ Each excel file has 39K+ Data.
 Data Cleaning:
 1.Removed unncessary columns to make data more readable and easy to perform with.
 2.While working the queries using MySQL, formatting the date column as supported by SQL(YYYY-MM-DD).
+3.Data merging etc..
 
 * Using Tableau, created stunning dashboard, keeping in mind,
 - it is easy to read
